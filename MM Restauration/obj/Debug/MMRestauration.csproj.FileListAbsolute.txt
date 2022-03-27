@@ -1,0 +1,31 @@
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\x86\sqlite3.dll
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\x64\sqlite3.dll
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MMRestoDB.db
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MM Restauration.exe.config
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MM Restauration.exe.manifest
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MM Restauration.application
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MM Restauration.exe
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MM Restauration.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\Dapper.dll
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MMLibrary.dll
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\System.Data.SQLite.dll
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\MMLibrary.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\Dapper.xml
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\System.Data.SQLite.xml
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MMRestauration.csprojResolveAssemblyReference.cache
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.Forms.ConfirmationForm.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.Forms.Customers.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.CustomizedErrorMessage.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.Home.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.LoadingPage.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.LogIn.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.Menu.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.Forms.Orders.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM_Restauration.Properties.Resources.resources
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MMRestauration.csproj.GenerateResource.Cache
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM Restauration.exe.manifest
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM Restauration.application
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM Restauration.exe
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\obj\Debug\MM Restauration.pdb
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\prestige.ttf
+C:\Users\Dell\documents\visual studio 2013\Projects\MM Restauration\MM Restauration\bin\Debug\PrestigeEliteStd.otf
